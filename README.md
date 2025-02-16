@@ -48,7 +48,9 @@ Project Topic: Using Sentiment Analysis to Predict Movie Rating Based on Amazon 
 </table> 
 
 <h2>Section 2: Documentation Tree</h2>
-TBA.
+
+View via <a href = "https://miro.com/app/board/uXjVLk8cn0k=/?share_link_id=197416515122">this link! </a>
+
 <h2>Section 3: Instructions to Reproduce Results</h2>
 
 1. Download Needed Scripts and Data:
