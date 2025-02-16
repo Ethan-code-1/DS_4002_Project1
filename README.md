@@ -1,6 +1,6 @@
 # DS_4002_Project1
 
-Authors: Seble Alemu (cnd3ru), Janna Serrao	(jhs5gq@virginia.edu), Ethan Ogilvie (ebo4dq@virginia.edu)
+Authors: Seble Alemu (cnd3ru@virginia.edu), Janna Serrao	(jhs5gq@virginia.edu), Ethan Ogilvie (ebo4dq@virginia.edu)
 
 Project Topic: Using Sentiment Analysis to Predict Movie Rating Based on Amazon Prime User Reviews
 - We utilized amazon review text to try and predict the star rating a user would assign to a product based solely on the body of text associated with a review. 
@@ -68,5 +68,5 @@ As results load, take time to review the comments in the code to understand each
 
 You can evaluate the success of your results by checking the figures produced with those stored in the OUTPUT folder.
 
-Questions? Error messages? Concerns? Feel free to contacr the authors! Our student ids are found at the top of this file.
+Questions? Error messages? Concerns? Feel free to contacr the authors! Our emails are found at the top of this file.
 
