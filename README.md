@@ -6,7 +6,7 @@ Project Topic: Using Sentiment Analysis to Predict Movie Rating Based on Amazon 
 - We utilized amazon review text to try and predict the star rating a user would assign to a product based solely on the body of text associated with a review. 
 <h2>Section 1: Software and Packages</h2>
 <b>Software:</b> Rivanna OnDemand or Vscode <br>
-<b>Platform:</b> Mac OS 14.3<br>
+<b>Platform:</b> Jupyter Notebook<br>
 <b>Packages:</b> you will need to install the following packages if they are not already available
  <table>
   <tr>
